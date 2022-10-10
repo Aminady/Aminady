@@ -1,6 +1,4 @@
-<!-- <div align="center"> -->
-![header](https://capsule-render.vercel.app/api?type=wave&color=0:EEFF00,100:a82da8&height=300&section=header&text=Welcome&animation=fadeIn&fontColor=ffffff&fontSize=90)
-<!-- </div> -->
+![header](https://capsule-render.vercel.app/api?type=soft&color=0:EEFF00,100:a82da8&height=200&section=header&text=Welcome%20!&animation=fadeIn&fontColor=ffffff&fontSize=90&fontAlignY=60)
 	
 <div align="center">
 <a href="mailto:aminasady704@gmail.com">
@@ -12,7 +10,7 @@
 </div>
 
 <div align="center">
-<img width="700px" src="https://media.giphy.com/media/eg5R2MB0cOZDG/giphy.gif"/>
+<img width="100%" src="https://media.giphy.com/media/eg5R2MB0cOZDG/giphy.gif"/>
 	</div>
 
 ```yaml
@@ -27,10 +25,7 @@ fields_of_interest : [
 <p align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" width="50" height="50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="50" height="50"/>
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="tailwind" width="50" height="50"/>
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="50" height="50"/>
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="50" height="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>
 </p>
 
 <h2>GitHub History</h2>
@@ -39,10 +34,12 @@ fields_of_interest : [
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Aminady&show_icons=true&theme=synthwave"/>
 </a>
 
-<a href="https://github.com/Aminady/convoychat">
-<img height="190px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aminady&layout=compact&theme=synthwave"/>
+<a margin-bottom="100px" href="https://github.com/Aminady/convoychat">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aminady&layout=compact&theme=synthwave"/>
 </a>
 
+
+![footer](https://capsule-render.vercel.app/api?type=soft&color=0:EEFF00,100:a82da8&height=100&section=footer&text=It%20Was%20Good%20Having%20You%20!&fontSize=60&animation=fadeIn&fontColor=ffffff&fontAlignY=60)
 
 <!-- Aminady/Aminady is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
