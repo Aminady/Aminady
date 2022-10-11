@@ -38,9 +38,10 @@ fields_of_interest : [
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aminady&layout=compact&theme=synthwave"/>
 </a>
 
-
+<!--
 ![footer](https://capsule-render.vercel.app/api?type=soft&color=0:EEFF00,100:a82da8&height=100&section=footer&text=It%20Was%20Good%20Having%20You%20!&fontSize=60&animation=fadeIn&fontColor=ffffff&fontAlignY=60)
-
-<!-- Aminady/Aminady is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
+<!--
+Aminady/Aminady is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
  -->
