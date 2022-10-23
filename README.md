@@ -27,6 +27,9 @@ fields_of_interest : [
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="50" height="50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>
 </p>
+<a margin-bottom="100px" href="https://github.com/Aminady/convoychat">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aminady&layout=compact&theme=synthwave"/>
+</a>
 
 <h2>GitHub History</h2>
 
@@ -34,9 +37,7 @@ fields_of_interest : [
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Aminady&show_icons=true&theme=synthwave"/>
 </a>
 
-<a margin-bottom="100px" href="https://github.com/Aminady/convoychat">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aminady&layout=compact&theme=synthwave"/>
-</a>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Aminady&theme=synthwave)](https://git.io/streak-stats)
 
 <!--
 ![footer](https://capsule-render.vercel.app/api?type=soft&color=0:EEFF00,100:a82da8&height=100&section=footer&text=It%20Was%20Good%20Having%20You%20!&fontSize=60&animation=fadeIn&fontColor=ffffff&fontAlignY=60)
