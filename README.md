@@ -27,7 +27,7 @@ fields_of_interest : [
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="50" height="50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>
 </p>
-<a margin-bottom="100px" href="https://github.com/Aminady/convoychat">
+<a href="https://github.com/Aminady/convoychat">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aminady&layout=compact&theme=synthwave"/>
 </a>
 
