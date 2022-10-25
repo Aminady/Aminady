@@ -11,7 +11,8 @@
 </a>
 </div>
 
-
+---
+👩🏾‍💻 About Me :
 
 ```yaml
 name: Amina Sady
@@ -20,8 +21,9 @@ fields_of_interest : [
 "Web development",
 "UI/UX"]
 ```
+---
 
-<h2>My Current Stack</h2>
+### :gear: Languages and Tools :
 <p align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="vscode" width="50" height="50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" width="50" height="50"/>
@@ -37,7 +39,8 @@ fields_of_interest : [
 </a>
 </div>
 
-<h2>GitHub History</h2>
+---
+### :printer: GitHub History :
 
 <div align="center">
 <a href="https://github.com/Aminady/github-readme-stats">
