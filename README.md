@@ -1,4 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=0:EEFF00,100:a82da8&height=200&section=header&text=Welcome%20!&animation=fadeIn&fontColor=ffffff&fontSize=90&fontAlignY=60)
+<div align="center">
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"/>
+</div>
 	
 <div align="center">
 <a href="mailto:aminasady704@gmail.com">
@@ -9,9 +11,7 @@
 </a>
 </div>
 
-<div align="center">
-<img width="100%" src="https://media.giphy.com/media/eg5R2MB0cOZDG/giphy.gif"/>
-	</div>
+
 
 ```yaml
 name: Amina Sady
@@ -22,23 +22,27 @@ fields_of_interest : [
 ```
 
 <h2>My Current Stack</h2>
-<p align="left">
+<p align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" width="50" height="50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="50" height="50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>
 </p>
+
+<div align="center">
 <a href="https://github.com/Aminady/convoychat">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aminady&layout=compact&theme=synthwave"/>
 </a>
+</div>
 
 <h2>GitHub History</h2>
 
+<div align="center">
 <a href="https://github.com/Aminady/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Aminady&show_icons=true&theme=synthwave"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Aminady&show_icons=true&theme=synthwave"/>
 </a>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Aminady&theme=synthwave)](https://git.io/streak-stats)
-
+</div>
 <!--
 ![footer](https://capsule-render.vercel.app/api?type=soft&color=0:EEFF00,100:a82da8&height=100&section=footer&text=It%20Was%20Good%20Having%20You%20!&fontSize=60&animation=fadeIn&fontColor=ffffff&fontAlignY=60)
 -->
