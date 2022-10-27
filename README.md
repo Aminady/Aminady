@@ -12,7 +12,7 @@
 </div>
 
 ---
-👩🏾‍💻 About Me :
+### 🧕 About Me :
 
 ```yaml
 name: Amina Sady
